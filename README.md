@@ -1,6 +1,5 @@
 # React JS Travel Website | Bootstrap 5 Design
 
-## Tutorial YouTube link - [React JS Travel Website - Responsive ReactJS Project using Bootstrap 5](https://youtu.be/0uuPYVz6MHw?si=qbQSr-JUo70NakKT)
 
 <img src="reactjs travel website.jpg" alt="reactjs travel website using bootstrap" />
 
