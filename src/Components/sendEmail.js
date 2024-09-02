@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const sendEmail = async (emailData) => {
-  const API_KEY = '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'; // Replace with your Brevo API Key
+  // const API_KEY = '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'; // Replace with your Brevo API Key
 
   try {
     const response = await axios.post(
@@ -26,11 +26,12 @@ const sendEmail = async (emailData) => {
       {
         headers: {
           'Content-Type': 'application/json',
-          'api-key': API_KEY,
+          // 'api-key': API_KEY,
         },
       }
     );
     console.log('Email successfully sent!', response.data);
+    alert(`Email Couldn't be sent!`);
   } catch (error) {
     console.error('Error sending email:', error);
   }
