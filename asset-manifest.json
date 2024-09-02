@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/holiday-react/static/css/main.e8599971.css",
-    "main.js": "/holiday-react/static/js/main.2051a6d1.js",
+    "main.js": "/holiday-react/static/js/main.7de16a20.js",
     "static/js/453.7b8fa43e.chunk.js": "/holiday-react/static/js/453.7b8fa43e.chunk.js",
     "static/media/destinations-need-inspiration-bg.jpg": "/holiday-react/static/media/destinations-need-inspiration-bg.c809d2432758dc8e351b.jpg",
     "static/media/city-breaks-hero-bg.jpg": "/holiday-react/static/media/city-breaks-hero-bg.23c2ab89ac1570597a63.jpg",
@@ -78,11 +78,11 @@
     "index.html": "/holiday-react/index.html",
     "static/media/chevron-right.svg": "/holiday-react/static/media/chevron-right.e7d1c5958ea417f711c20acaf385e71e.svg",
     "main.e8599971.css.map": "/holiday-react/static/css/main.e8599971.css.map",
-    "main.2051a6d1.js.map": "/holiday-react/static/js/main.2051a6d1.js.map",
+    "main.7de16a20.js.map": "/holiday-react/static/js/main.7de16a20.js.map",
     "453.7b8fa43e.chunk.js.map": "/holiday-react/static/js/453.7b8fa43e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8599971.css",
-    "static/js/main.2051a6d1.js"
+    "static/js/main.7de16a20.js"
   ]
 }
