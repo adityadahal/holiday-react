@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <NavigationBar />
-
+      <Home />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/city-breaks' element={<CityBreaks />} />
