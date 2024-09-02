@@ -8,12 +8,14 @@ import HolidayPlanSection from '../../Components/HolidayPlanSection/HolidayPlanS
 import FavouritesSection from '../../Components/FavouritesSection/FavouritesSection';
 import RecentHolidays from '../../Components/RecentHolidays/RecentHolidays';
 import NeedInspirationSection from '../../Components/NeedInspiration/NeedInspirationSection';
+import HolidayPlanForm from '../../Components/EmailComponent';
+
 
 function Home() {
     return (
         <div className='home-page'>
             <HeroSection />
-            <SearchForm />
+            {/* <SearchForm /> */}
             <LastHolidaysSection />
             <div className="my-4 my-sm-5">
                 <RecommendedSection itemRecommendedTitle='Recommended for you' />
@@ -22,6 +24,7 @@ function Home() {
             <FavouritesSection />
             <RecentHolidays />
             <NeedInspirationSection />
+            <HolidayPlanForm/>
         </div>
     )
 }
